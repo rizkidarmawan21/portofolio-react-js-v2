@@ -14,9 +14,9 @@ export const About = () => {
         <div className="about-content padd-15">
           <div className="row">
             <div className="about-text padd-15">
-              <h3>I'm Luan Hoang and <span>Front-end Developer</span></h3>
+              <h3>I'm Lailatul Fitriyah and <span>Front-end Developer</span></h3>
               <p>
-                  Dưới đây là những thông tin về tôi. Những kĩ năng tôi học được trong quá trình học tập ở trường và thông qua các khóa học trên mạng. Cũng như những quá trình thực tập để tích lũy kiến thức và làm quen với môi trường hoạt động của doanh nghiệp.
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum voluptas a cum, amet eos sapiente ipsa doloribus tenetur aspernatur vitae molestiae perspiciatis explicabo quis nemo deleniti sequi fugit animi ut!
               </p>
             </div>
           </div>
